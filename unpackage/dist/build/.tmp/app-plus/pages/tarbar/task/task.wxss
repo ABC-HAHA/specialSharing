@@ -1,0 +1,32 @@
+.swiper.data-v-d9fd429c {
+  height: 180rpx;
+}
+.swiper .swiper-list.data-v-d9fd429c {
+  margin-top: 20rpx;
+  margin-left: 25rpx;
+  width: 700rpx;
+  height: 174rpx;
+}
+.taskbox.data-v-d9fd429c {
+  margin: 25rpx;
+  background: #ffffff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.taskbox image.data-v-d9fd429c {
+  width: 120rpx;
+  height: 120rpx;
+  margin: 35rpx 40rpx;
+}
+.taskbox .task_list.data-v-d9fd429c {
+  margin: 58rpx 0rpx 20rpx;
+}
+.taskbox .task_list .task_title.data-v-d9fd429c {
+  font-size: 30rpx;
+  color: #25a39c;
+}
+.taskbox .task_list .task_content.data-v-d9fd429c {
+  font-size: 24rpx;
+}
+

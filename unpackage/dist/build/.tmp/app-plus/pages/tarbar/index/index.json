@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cmd-progress": "/components/cmd-progress/cmd-progress",
+    "swiper-dot": "/components/uni-swiper-dot/uni-swiper-dot",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "unimask": "/pages/mine/uni-popup"
+  }
+}

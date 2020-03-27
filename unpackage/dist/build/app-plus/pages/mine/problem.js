@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"agent-item.",[1],"data-v-17a2e046 { width: ",[0,750],"; height: ",[0,326],"; }\n",],undefined,{path:"./pages/mine/problem.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/mine/problem.wxml') } }));

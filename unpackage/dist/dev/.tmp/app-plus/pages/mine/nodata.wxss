@@ -1,0 +1,14 @@
+.no_data_block.data-v-aa0b7c3c {
+  width: 750rpx;
+  text-align: center;
+  margin-top: 400rpx;
+}
+.no_data_block .no_data.data-v-aa0b7c3c {
+  width: 464rpx;
+  height: 298rpx;
+}
+.no_data_block > view.data-v-aa0b7c3c {
+  font-size: 31rpx;
+  color: #686868;
+}
+
