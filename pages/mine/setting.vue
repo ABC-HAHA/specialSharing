@@ -534,7 +534,7 @@ export default {
 	computed: {
 		// #ifdef APP-PLUS
 		version: function() {
-			return plus.storage.getItem('app-id') ? plus.storage.getItem('app-id') : '2.1.2';
+			return plus.storage.getItem('app-id') ? plus.storage.getItem('app-id') : '2.1.3';
 		},
 		// #endif
 		pro: function() {
