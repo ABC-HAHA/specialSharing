@@ -4,11 +4,11 @@
 			<view class="a_head">{{ title }}</view>
 			<view class="otherLogin">
 				<view class="weiixnLogin" @click="weixinlogin">
-					<image src="../../../static/weixin.png" mode=""></image>
+					<image src="/static/weixin.png" mode=""></image>
 					<view class="">微信快捷登录</view>
 				</view>
 				<view class="iphoneLogin" @click="iphonelogin">
-					<image src="../../../static/iphone.png" mode=""></image>
+					<image src="/static/iphone.png" mode=""></image>
 					<view class="">手机号登录</view>
 				</view>
 			</view>
